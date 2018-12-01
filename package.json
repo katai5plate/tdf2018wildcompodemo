@@ -1,0 +1,15 @@
+{
+  "name": "rpg2k-tween",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/katai5plate/rpg2k-tween",
+  "author": "katai5plate <katai5plate.sub@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "build": "node compiler.js"
+  }
+}

@@ -1,0 +1,8 @@
+#include "rpgfunc.as"
+//receive
+for i,0,15,1
+	event 0, 6
+	pic i+21, "twist01", 1, 16, 17, 0, 100, 1, 25, , 100, 100, 100, 100, 0, 5
+	varsel 18 : var 1, 0, 1, 0
+next
+send
