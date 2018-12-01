@@ -11,4 +11,4 @@
 - 説明面倒なので、不明点は「コードが仕様書」するか、直接聞いて。
 
 ## デモはどこで実行できる？
-- bin/RUN.bat
+- start /affinity 1 bin/RPG_RT.exe NULL NULL Window
