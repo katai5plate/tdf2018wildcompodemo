@@ -3,7 +3,7 @@
 とりあえずツクールでプロジェクトを開けばどういう仕組みか察せるはず。
 
 ## 使用しているHSPモジュール
-- [イベント命令のスクリプト化モジュール](http://www.geocities.jp/orreiclan/content/work/work.html?file=rpgfunc_1_02&type=hsp)
+- [イベント命令のスクリプト化モジュール](https://fermiumbay16.jimdofree.com/技術/rpgツクール用自製ツール/rpgツクール200x-イベント命令のスクリプト化モジュール/)
 
 ## なにこのsrc？
 - いろいろな試行錯誤に使ったコードも込みでいろいろ詰め合わせただけ。
